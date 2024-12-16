@@ -8,8 +8,8 @@
 - Suggests stronger passwords if the entered password is weak.
 
 ## How to Run:
-1. Make sure you have Python 3.x installed.
+1. Make sure you have Python 3, tkinter, math, random, and string libraries installed.
 2. Run the following command in the terminal:
    ```bash
-   python PA.py
+   python3 PA.py
 
